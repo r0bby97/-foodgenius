@@ -1,2 +1,2 @@
 # FoodGenius
-Hallo ich bins Tim
+Food Database where you can search for macros, vegan, vegetarian, meet
