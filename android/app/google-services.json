@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "860900127456",
+    "firebase_url": "https://foodgenius-b6e47-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "foodgenius-b6e47",
+    "storage_bucket": "foodgenius-b6e47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860900127456:android:f5c39e17b1ef7181069685",
+        "android_client_info": {
+          "package_name": "unikurs.ue1_basisprojekt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860900127456-03h8lf73u8o0eu40a9q9da7uvk1msgnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-NampFPs18mt4kiTVfziILW8Nq1sJtPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860900127456-03h8lf73u8o0eu40a9q9da7uvk1msgnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
